@@ -19,3 +19,4 @@ inventario = [
         ],
     }
 ]
+print(inventario)
